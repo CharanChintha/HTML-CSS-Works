@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tribute</title>
+	<style>
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container{
+	margin-bottom: ;
+	background-color: skyblue;
+	min-height: 100vh;
+	
+	border: 10px solid deepskyblue;
+}
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+}
+.top-section h1{
+	font-size: 60px;
+	font-weight: bold;
+	margin-right: 150px;
+	text-transform: uppercase;
+}
+.top-section h4{
+	text-transform: uppercase;
+	font-size: 20px;
+	margin-right: 150px;
+	text-align: end;
+}
+.top-section{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.img-container,img{
+	margin-top: 50px;
+	height: 300px;
+	width: 330px;
+	border-radius: 50px;
+}
+.about{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.about p{
+	font-size: 20px;
+}
+.about h2{
+	font-size: 50px;
+}
+p{
+	text-align: justify;
+}
+.about li{
+font-size: 20px;
+margin-top: 3px;
+}
+footer{
+	margin: 200px 0px 100px 100px;
+	
+}
+
+</style>
+</head>
+<body>
+	<div class="container">
+		<div class="content">
+			<section class="top-section">
+				<div class="img-container">
+					<img style="border: 2px solid black;" src="https://img.ap7am.com/bimg/cr-2024030765e9fae1d8df7.jpg"/>
+				</div>
+				<div>
+					<h1>M.S Dhoni</h1>
+					<h4>(master)</h4>
+			</section>
+			<section class="about">
+				<h2>Early life</h2>
+				<p>Dhoni was born on 7 July 1981 in Ranchi, Bihar (now in Jharkhand) in a Hindu Rajput family to Pan Singh and Devaki Devi. [4] His parents hailed from Lwali village in Uttar Pradesh (now Uttarakhand) and he was the youngest of three children.[5][6][7] His family spells the surname as "Dhauni".[8]
+
+Dhoni did his schooling at DAV Jawahar Vidya Mandir where he started playing football as a goal keeper but later moved to play cricket on the suggestion of his coach Keshav Banerjee.[9][10] From 2001 to 2003, Dhoni worked as a Travelling Ticket Examiner (TTE) at Kharagpur under South Eastern Railway zone of Indian Railways.[11][12]</p>
+<h2>Early career</h2>
+<p>He played as a wicket-keeper for Commando cricket club from 1995 to 1998 and Central Coal Fields Limited (CCL) team in 1998.[13] At CCL, he batted higher up the order and helped the team qualify to the higher division.[14] Based on his performance at club cricket, he was picked for the 1997/98 season of Vinoo Mankad Trophy under-16 championship.[15][16] In the 1998–99, Dhoni played for Bihar U-19 team in the Cooch Behar Trophy and scored 176 runs in 5 matches. In the 1999–2000 Cooch Behar Trophy, the Bihar U-19 cricket team made it to the finals, where Dhoni made 84 in a losing cause.[17] Dhoni's contribution in the tournament included 488 runs in nine matches with five fifties, 17 catches and seven stumpings.[18] Dhoni made it to the East Zone U-19 squad for the C. K. Nayudu Trophy in the 1999–2000 season and scored only 97 runs in four matches, as East Zone lost all the matches and finished last in the tournament.[19][20]
+
+Dhoni made his Ranji Trophy debut for Bihar against Assam in the 1999–2000 season, as an eighteen-year-old scoring 68 runs in the second innings.[21] Dhoni finished the season with 283 runs in 5 matches. Dhoni scored his maiden first-class century while playing for Bihar against Bengal in the 2000–01 Ranji Trophy season.[22] Apart from this century, his performance in the 2000/01 season did not include another score over fifty and in the 2001–02 Ranji Trophy season, he scored just five fifties in four Ranji matches.[23][24] Dhoni's played for Jharkhand in the 2002–03 Ranji Trophy and represented East Zone in the Deodhar Trophy where he started gaining recognition for his lower-order contribution as well as hard-hitting batting style. In the 2003/04 season, Dhoni scored a century (128*) against Assam in the first match of the Ranji ODI tournament and was part of the East Zone squad that won the Deodhar Trophy 2003–2004 season scoring 244 runs in four matches.[25][26]
+
+In the Duleep Trophy finals, Dhoni represented East zone and scored a fighting half-century in the second innings in a losing cause.[27] Dhoni was identified as one of the emerging talents via the BCCI's small-town talent-spotting initiative TRDW.[28][29] In 2004, Dhoni was picked for the India A squad for a tour of Zimbabwe and Kenya.[30] Against the Zimbabwe XI in Harare Sports Club, Dhoni effected seven catches and four stumpings.[31] In the tri-nation tournament involving Kenya, India A and Pakistan A, Dhoni helped India A chase down their target of 223 against Pakistan A with a half-century and scored scored 362 runs in six innings at an average of 72.40 with back to back centuries.</p>
+<h2>Honors</h2>
+<h1>India</h1>
+<li>ICC World T20: 2007</li>
+<li>Asia Cup: 2010,2016 2018</li>
+<li>Cricket World Cup: 2011</li>
+<li>ICC Champions Trophy: 2013[213][214]</li>
+<h1>Chennai Super Kings
+</h1>
+<li>Indian Premier League: 2010,2011, 2018,2021, 2023</li>
+<li>Champions League: 2010,2014</li>
+<h1>Individual</h1>
+<li>MTV Youth Icon of the Year: 2006</li>
+<li>Honorary doctorate degree by De Montfort University: 2011</li>
+<li>CNN-News18 Indian of the Year: 2011</li>
+<li>Major Dhyanchand Khel Ratna award: 2008</li>
+<li>Padma Shri: 2009</li>
+<li>Honorary Lieutenant Colonel, Parachute Regiment of the Indian Territorial Army: 2011[3]</li>
+<li>Castrol Indian Cricketer of the Year: 2011</li>
+<li>ICC People's Choice Award: 2013</li>
+<li>Padma Bhushan: 2018</li>
+<li>ICC ODI Player of the Year: 2008, 2009</li>
+<li>ICC Men's ODI Team of the Year: 2006, 2008, 2009, 2010, 2011, 2012, 2013, 2014 (captain in 2009, 2011–2014)</li>
+<li>ICC Men's ODI team of the decade: 2011–2020 (captain and wicket-keeper)</li>
+<li>ICC Men's T20I team of the decade: 2011–2020 (captain and wicket-keeper)</li>
+<li>ICC Spirit of the cricket award of the decade: 2011–2020</li>
+
+			</section>
+			<footer>
+				<p style="font-size: 20px;">Read more about M.S DHONI on <a href="https://en.wikipedia.org/wiki/MS_Dhoni">Wikepedia.</a></p>
+			</footer>
+		</div>
+	</div>
+</body>
+</html>
