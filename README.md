@@ -52,7 +52,7 @@ margin
 	<div id='Home'>
 		<h2>Indian legends</h2>
 		<p>The Board of Control for Cricket in India (BCCI) was set up on December 4, 1928 by a group of players at Delhi's Roshnara Club to end the British monopoly in cricket. BCCI had 6 regional bodies as its first members. Today it has 30 full-time members, and is worth Rs 3,308 crore.</p>
-		<img src="main1.jpg">
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qI7U7d0tsG7D0-K8OV3cw0pL-GyVh2361bH1Di-SiOGAY-amyke9vH3qdm-lb9_SMPc&usqp=CAU">
 		
 	</div>
 	<div id="Dhoni">
